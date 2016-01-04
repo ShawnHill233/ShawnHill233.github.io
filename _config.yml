@@ -1,13 +1,13 @@
 # Site settings
-title: Shawn Blog
+title: Shawn's Blog
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: shawnhill
+twitter_username:
 github_username:  shawnhill233
-facebook_username:  shawnhill
+facebook_username:
 
 # Build settings
 markdown: kramdown
